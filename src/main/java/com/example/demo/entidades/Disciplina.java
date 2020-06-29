@@ -7,7 +7,7 @@ public class Disciplina {
 	private String disciplina;
 	
 	public Disciplina() {
-		this.disciplina = "disciplina";
+		this.disciplina = "disciplina padrão";
 	}
 	
 	public Disciplina(int id, String nome, double nota, String disciplina) {
